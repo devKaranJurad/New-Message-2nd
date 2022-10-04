@@ -66,6 +66,46 @@
     "isShow23": true,
     "isShow24": true,
     "isShow25": true,
-    "isShow26": true
+    "isShow26": true,
+    "isAd1":true,
+"isAd2":true,
+"adsData":[
+  {
+    "imageLink":"https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ=w240-h480-rw",
+    "buttonText":"Download Now",
+    "title":"Get free guide",
+    "desc":"Free free free",
+    "adsLink":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },
+  {
+    "imageLink":"https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ=w240-h480-rw",
+    "buttonText":"Download Now",
+    "title":"Get free guide",
+    "desc":"Free free free",
+    "adsLink":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },
+  {
+    "imageLink":"https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ=w240-h480-rw",
+    "buttonText":"Download Now",
+    "title":"Get free guide",
+    "desc":"Free free free",
+    "adsLink":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },{
+    "imageLink":"https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ=w240-h480-rw",
+    "buttonText":"Download Now",
+    "title":"Get free guide",
+    "desc":"Free free free",
+    "adsLink":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },
+  {
+    "imageLink":"https://play-lh.googleusercontent.com/q5h287SRAvKpLIPfAVMB4ulqr7PdxL_Dy2E1DSLTCoYcuHbOa6SkXkTLhyX1D8rokGQ=w240-h480-rw",
+    "buttonText":"Download Now",
+    "title":"Get free guide",
+    "desc":"Free free free",
+    "adsLink":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  }
+]
+
+
   }
 }
