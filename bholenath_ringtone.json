@@ -1,188 +1,204 @@
 {
   "message": "success",
   "info": {
-   "trending": [
-     {
-       "id":"1",
-       "title": "KGF Ringtone",
-       "desc": "Feel like rocky bhai",
-       "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/06/image-search-1600-x-840-px-62c6dc4ff1eee-sej-1280x720.png",
-       "music_url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-       "file_name": "SoundHelix-Song-2.mp3"
-     },
-     {
-       "id":"1",
-       "title": "KGF Ringtone",
-       "desc": "Feel like rocky bhai",
-       "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-       "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-       "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-     },{
-       "id":"1",
-       "title": "KGF Ringtone",
-       "desc": "Feel like rocky bhai",
-       "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-       "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-       "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-     },{
-       "id":"1",
-       "title": "KGF Ringtone",
-       "desc": "Feel like rocky bhai",
-       "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-       "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-       "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-     },{
-       "id":"1",
-       "title": "KGF Ringtone",
-       "desc": "Feel like rocky bhai",
-       "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-       "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-       "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-     },{
-       "id":"1",
-       "title": "KGF Ringtone",
-       "desc": "Feel like rocky bhai",
-       "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-       "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-       "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-     }
-   ],
-    "popular": [
+    "trending": [
       {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
+        "title": "Ajab Hai Teri Maya Ise Koi Samajh Na Paya",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/ajab he teri maya.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Ajab Hai Teri Maya Ise Koi Samajh Na Paya - Bhakti.mp3",
+        "file_name": "Ajab Hai Teri Maya Ise Koi Samajh Na Paya - Bhakti.mp3"
       },
       {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Bam Bam Laheri",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/bam bam lehri.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Bam Bam Laheri.mp3",
+        "file_name": "Bam Bam Laheri.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Ek Bar Shree Bhole Bhandari",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/ek bar shree bhole bhandari.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Ek Bar Shree Bhole Bhandari.mp3",
+        "file_name": "Ek Bar Shree Bhole Bhandari.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Har Har Shambhu Har Har Shambhu",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/har har shambhu.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Har Har Shambhu Har Har Shambhu - Jeetu Sharma.mp3",
+        "file_name": "Har Har Shambhu Har Har Shambhu - Jeetu Sharma.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Kailash Ke Nivasi",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/kailash ke niwashi.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Kailash Ke Nivasi.mp3",
+        "file_name": "Kailash Ke Nivasi.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
+        "title": "Kon Hain Wo - Bahubali",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/kon hain voh.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Kon Hain Wo ! Bahubali ! Devotional Song.mp3",
+        "file_name": "Kon Hain Wo ! Bahubali ! Devotional Song.mp3"
+      }
+    ],
+    "popular": [
+      {
+        "id":"1",
+        "title": "Lagi Mere Tere",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/lagi lagan shankra.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Lagi Mere Tere - Hansraj Raghuwanshi ! Hindi Song.mp3",
+        "file_name": "Lagi Mere Tere - Hansraj Raghuwanshi ! Hindi Song.mp3"
+      },
+      {
+        "id":"1",
+        "title": "Maha Mrityunjaya Mantra",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/maha mrityunjay.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Maha Mrityunjaya Mantra.mp3",
+        "file_name": "Maha Mrityunjaya Mantra.mp3"
+      },
+      {
+        "id":"1",
+        "title": "Main Bhola Parvat Ka",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/main bhola parvat ka.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Main Bhola Parvat Ka.mp3",
+        "file_name": "Main Bhola Parvat Ka.mp3"
+      },
+      {
+        "id":"1",
+        "title": "Mera Bhola He Bhandari - Remix",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/mera bhola he bhandari.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Mera Bhola He Bhandari - Remix Song.mp3",
+        "file_name": "Mera Bhola He Bhandari - Remix Song.mp3"
+      },
+      {
+        "id":"1",
+        "title": "Nacho Bhai Nacho",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/nacho bhai nacho.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Nacho Bhai Nacho - Mahadev Aayo.mp3",
+        "file_name": "Nacho Bhai Nacho - Mahadev Aayo.mp3"
+      },
+      {
+        "id":"1",
+        "title": "Nagar Mein Jogi Aaya",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/nagar main jogi aaya.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Nagar Mein Jogi Aaya.mp3",
+        "file_name": "Nagar Mein Jogi Aaya.mp3"
       }
     ],
     "new": [
       {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
+        "title": "Namo Namo Shankara",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/namo namo shankra.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Namo Namo Shankara - Namo Namo ! Hindi.mp3",
+        "file_name": "Namo Namo Shankara - Namo Namo ! Hindi.mp3"
       },
       {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Om Jai Shiv Omkara",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/om jay shiv omkara.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Om Jai Shiv Omkara - Anuradha Paudwal.mp3",
+        "file_name": "Om Jai Shiv Omkara - Anuradha Paudwal.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Om Manglam Om Kar Maglam",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/om manglam.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Om Manglam Maglam.mp3",
+        "file_name": "Om Manglam Maglam.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Om Namah Sivay",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/om namah sivay.png",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Om Namah Sivay.mp3",
+        "file_name": "Om Namah Sivay.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Shambhu Sharne Padi",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/shambhu sharne pdi.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Shambhu Sharne Padi.mp3",
+        "file_name": "Shambhu Sharne Padi.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
+        "title": "Shiv Kailasho Ke Waasi",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/shiv kailsho ke vasi.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Shiv Kailasho Ke Waasi - Hansraj Raghuwanshi Song.mp3",
+        "file_name": "Shiv Kailasho Ke Waasi - Hansraj Raghuwanshi Song.mp3"
       }
     ],
     "all_time_fav": [
       {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
+        "title": "",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/",
+        "file_name": ""
       },
       {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Shiv Sama Rahe Mujhme",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/shiv sama rahe.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Shiv Sama Rahe Mujhme.mp3",
+        "file_name": "Shiv Sama Rahe Mujhme.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Shiv Shankar Ko Jisne Puja Uska Beda Paar Hua",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/shiv shankar ko jisne pooja.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Shiv Shankar Ko Jisne Puja Uska Beda Paar Hua.mp3",
+        "file_name": "Shiv Shankar Ko Jisne Puja Uska Beda Paar Hua.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "Shiv Tandav Stotram.mp3",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/shiv tandav.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Shiv Tandav Stotram.mp3",
+        "file_name": "Shiv Tandav Stotram.mp3"
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
-      },{
+        "title": "",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/",
+        "file_name": ""
+      },
+      {
         "id":"1",
-        "title": "KGF Ringtone",
-        "desc": "Feel like rocky bhai",
-        "thumbnail": "https://www.filmibeat.com/ph-big/2022/03/kgf-chapter-2_164662316210.jpg",
-        "music_url":"https://www.ringtonebaaz.net/wp-content/uploads/2021/01/KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3",
-        "file_name": "KGF-2-Ringtone-download-RingtoneBaaz.co_.mp3"
+        "title": "Lagi Mere Tere",
+        "desc": "Feel like bholenath",
+        "thumbnail": "https://devkaranjurad.github.io/bholenath_ringtone/lagi lagan shankra.jpeg",
+        "music_url":"https://devkaranjurad.github.io/bholenath_ringtone/Lagi Mere Tere - Hansraj Raghuwanshi ! Hindi Song.mp3",
+        "file_name": "Lagi Mere Tere - Hansraj Raghuwanshi ! Hindi Song.mp3"
       }
     ]
   }
