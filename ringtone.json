@@ -123,7 +123,7 @@
         "id":"1",
         "title": "Memories",
         "desc": "Feel like cool ringtone",
-        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image1.webp",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image4.jpg",
         "music_url":"https://devkaranjurad.github.io/cool_ringtone/Memories.ogg",
         "file_name": "Memories.ogg"
       },
@@ -147,7 +147,7 @@
         "id":"1",
         "title": "Nokia (Dance Remix)",
         "desc": "Feel like cool ringtone",
-        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image4.jpg",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image1.webp",
         "music_url":"https://devkaranjurad.github.io/cool_ringtone/Nokia (Dance Remix).ogg",
         "file_name": "Nokia (Dance Remix).ogg"
       }
