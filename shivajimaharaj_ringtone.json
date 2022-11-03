@@ -1,2 +1,206 @@
-gvfdghbftght
+{
+  "message": "success",
+  "info": {
+    "trending": [
+      {
+        "id": "1",
+        "title": "Aaste Kadam",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji1.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/Aaste Kadam - Shivaji Maharaj.mp3",
+        "file_name": "Aaste Kadam - Shivaji Maharaj.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Shivaji Maharaj Shivghoshna",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji2.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/Shivaji Maharaj Shivghoshna.mp3",
+        "file_name": "Shivaji Maharaj Shivghoshna.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Shivaji Nu Halardu",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji3.png",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/Shivaji Nu Halardu ! Shivaji Nu ! Shivaji Maharaj.mp3",
+        "file_name": "Shivaji Nu Halardu ! Shivaji Nu ! Shivaji Maharaj.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Bhakti karta chuta",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji4.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/bhakti_karta_chuta.mp3",
+        "file_name": "bhakti_karta_chuta.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Chatrapati shivaji",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji5.webp",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/chatrapati_shivaji.mp3",
+        "file_name": "chatrapati_shivaji.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Shivaji maharaj",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji6.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/chh_shivaji_maharaj.mp3",
+        "file_name": "chh_shivaji_maharaj.mp3"
+      }
+    ],
+    "popular": [
+      {
+        "id": "1",
+        "title": "He hindu dipti sam",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji4.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/he_hindu_dipti_sam.mp3",
+        "file_name": "he_hindu_dipti_sam.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Jai bhavani",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji6.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/jai_bhavani.mp3",
+        "file_name": "jai_bhavani.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Maharaj",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji5.webp",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/maharaj.mp3",
+        "file_name": "maharaj.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Maharaj ki jay ho",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji3.png",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/maharaj_ki_jay_ho.mp3",
+        "file_name": "maharaj_ki_jay_ho.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Om gajanan",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji2.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/om_gajanan.mp3",
+        "file_name": "om_gajanan.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Pawankhind rajala",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji1.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/pawankhind_rajala.mp3",
+        "file_name": "pawankhind_rajala.mp3"
+      }
+    ],
+    "new": [
+      {
+        "id": "1",
+        "title": "Pawankhind swashatraj",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji7.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/pawankhind_swashatraj.mp3",
+        "file_name": "pawankhind_swashatraj.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Raja shivaji",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/shivaji8.webp",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/raja shivaji.mp3",
+        "file_name": "raja shivaji.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Raja ala hey mazya raj",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/shivaji9.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/raja_ala_hey_mazya_raj.mp3",
+        "file_name": "raja_ala_hey_mazya_raj.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Raja ala pawankhind",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji6.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/raja_ala_pawankhind.mp3",
+        "file_name": "raja_ala_pawankhind.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Sher shivraj ringtone",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji5.webp",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/sher_shivraj_ringtone.mp3",
+        "file_name": "sher_shivraj_ringtone.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Jai bhavani",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji4.jpeg",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/jai_bhavani.mp3",
+        "file_name": "jai_bhavani.mp3"
+      }
+    ],
+    "all_time_fav": [
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like shivaji maharaj ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/",
+        "file_name": ""
+      }
+    ]
+  }
+}
 
