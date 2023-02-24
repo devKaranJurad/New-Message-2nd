@@ -28,12 +28,12 @@
       "inter_with_mediation": "asdfasfws"
     },
     "applovin_ads": {
-      "banner": "cee3b391d6061346",
-      "inter": "5201602bd1a21f61",
-      "mrec": "56bde13bfd666fc9",
-      "open": "8b7091983700d3c0",
-      "banner_with_mediation": "safdf",
-      "inter_with_mediation": "asdfasfws"
+      "banner": "e0206416e33c642a",
+      "inter": "eed5936e49b2af09",
+      "mrec": "9d015a114651dd0e",
+      "open": "a6dbf9a36958719e",
+      "banner_mediation": "e0206416e33c642a",
+      "inter_mediation": "eed5936e49b2af09"
     }
   },
   "ads_flags": {
