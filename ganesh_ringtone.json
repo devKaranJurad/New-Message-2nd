@@ -3,155 +3,204 @@
   "info": {
     "trending": [
       {
-        "id": "1",
-        "title": "Bulleya",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/bulleya.mp3",
-        "file_name": "bulleya.mp3",
+        "id":"1",
+        "title": "Marimba Computer Game",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image1.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/8-bit Marimba Computer Game.ogg",
+        "file_name": "8-bit Marimba Computer Game.ogg"
       },
       {
-        "id": "1",
-        "title": "Deva Deva",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Om_Deva_Deva_Ringtone-1422.mp3",
-        "file_name": "Om_Deva_Deva_Ringtone-1422.mp3"
+        "id":"1",
+        "title": "Ascend the Skyline",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image2.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Ascend the Skyline.ogg",
+        "file_name": "Ascend the Skyline.ogg"
       },
       {
-        "id": "1",
-        "title": "Fitoor",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Hindi_Film_Poster.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Ringtone-1424.mp3",
-        "file_name": "Fitoor_Ringtone-1424.mp3"
+        "id":"1",
+        "title": "Aurora",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image3.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Aurora.ogg",
+        "file_name": "Aurora.ogg"
       },
       {
-        "id": "1",
-        "title": "Pal Pal Dil Ke Paas",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Pal-Pal-Dil-Ke-Paas-Hindi-2019-20200420150444-500x500.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/pal_pal_dil_ke_pass_-234.mp3",
-        "file_name": "pal_pal_dil_ke_pass_-234.mp3",
+        "id":"1",
+        "title": "Beach House Rock",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image4.jpg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Beach House Rock.ogg",
+        "file_name": "Beach House Rock.ogg",
+        "is_ads" : true
+      },
+      {
+        "id":"1",
+        "title": "Blue",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image5.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Blue.ogg",
+        "file_name": "Blue.ogg"
+      },
+      {
+        "id":"1",
+        "title": "Carpe Diem",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image6.jpg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Carpe Diem.ogg",
+        "file_name": "Carpe Diem.ogg",
         "is_ads" : true
       }
+
     ],
     "popular": [
       {
-        "id": "1",
-        "title": "Aabaad barbaad",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad-barbaad-Flyer.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad_barbaad.mp3",
-        "file_name": "aabaad_barbaad.mp3"
+        "id":"1",
+        "title": "Cool",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image7.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Cool.ogg",
+        "file_name": "Cool.ogg"
       },
       {
-        "id": "1",
-        "title": "kesariya tera",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/kesariya_tera.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/kesariya_Tera_Ringtone.mp3",
-        "file_name": "kesariya_Tera_Ringtone.mp3"
+        "id":"1",
+        "title": "Counting Down",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image8.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Counting Down.ogg",
+        "file_name": "Counting Down.ogg"
       },
       {
-        "id": "1",
-        "title": "Naina",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina_arijit_singh-204.mp3",
-        "file_name": "naina_arijit_singh-204.mp3"
+        "id":"1",
+        "title": "Crazy Glue",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image9.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Crazy Glue.ogg",
+        "file_name": "Crazy Glue.ogg"
       },
       {
-        "id": "1",
-        "title": "Pachtaoge",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge_ringtone.mp3",
-        "file_name": "pachtaoge_ringtone.mp3",
-         "is_ads" : true
+        "id":"1",
+        "title": "Crying Over You",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image10.png",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Crying Over You.ogg",
+        "file_name": "Crying Over You.ogg"
+      },
+      {
+        "id":"1",
+        "title": "Doin' It",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image11.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Doin' It.ogg",
+        "file_name": "Doin' It.ogg"
+      },
+      {
+        "id":"1",
+        "title": "First Love",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image12.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/First Love.ogg",
+        "file_name": "First Love.ogg"
       }
     ],
     "new": [
       {
-        "id": "1",
-        "title": "Tujhe kitna chahne",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/tujhe_kitna_chahne.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/tujhe_kitna_chahne.mp3",
-        "file_name": "tujhe_kitna_chahne.mp3"
+        "id":"1",
+        "title": "Happy Clappy",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image13.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Happy Clappy.ogg",
+        "file_name": "Happy Clappy.ogg"
       },
       {
-        "id": "1",
-        "title": "Naina",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina_arijit_singh-204.mp3",
-        "file_name": "naina_arijit_singh-204.mp3"
+        "id":"1",
+        "title": "Let's Begin",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image14.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Let's Begin.ogg",
+        "file_name": "Let's Begin.ogg"
       },
       {
-        "id": "1",
-        "title": "Aabaad barbaad",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad-barbaad-Flyer.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad_barbaad.mp3",
-        "file_name": "aabaad_barbaad.mp3"
+        "id":"1",
+        "title": "Memories",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image4.jpg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Memories.ogg",
+        "file_name": "Memories.ogg"
       },
       {
-        "id": "1",
-        "title": "Fitoor",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Hindi_Film_Poster.jpeg",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Ringtone-1424.mp3",
-        "file_name": "Fitoor_Ringtone-1424.mp3"
+        "id":"1",
+        "title": "Mystic Chillhop",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image2.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Mystic Chillhop.ogg",
+        "file_name": "Mystic Chillhop.ogg"
+      },
+      {
+        "id":"1",
+        "title": "No Phone, Like Ringtone",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image3.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/No Phone, Like Ringtone.ogg",
+        "file_name": "No Phone, Like Ringtone.ogg"
+      },
+      {
+        "id":"1",
+        "title": "Nokia (Dance Remix)",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image1.webp",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Nokia (Dance Remix).ogg",
+        "file_name": "Nokia (Dance Remix).ogg"
       }
     ],
     "all_time_fav": [
       {
-        "id": "1",
+        "id":"1",
+        "title": "Peculiar Cliffs",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image5.jpeg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Peculiar Cliffs.ogg",
+        "file_name": "Peculiar Cliffs.ogg"
+      },
+      {
+        "id":"1",
+        "title": "Summertime",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image6.jpg",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Summertime.ogg",
+        "file_name": "Summertime.ogg"
+      },
+      {
+        "id":"1",
         "title": "",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/",
         "file_name": ""
       },
       {
-        "id": "1",
+        "id":"1",
         "title": "",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/",
         "file_name": ""
       },
       {
-        "id": "1",
+        "id":"1",
         "title": "",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/",
         "file_name": ""
       },
       {
-        "id": "1",
+        "id":"1",
         "title": "",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "file_name": ""
-      },
-      {
-        "id": "1",
-        "title": "",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "file_name": ""
-      },
-      {
-        "id": "1",
-        "title": "",
-        "desc": "Feel like arijit singh",
-        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
-        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "desc": "Feel like cool ringtone",
+        "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/",
+        "music_url":"https://devkaranjurad.github.io/cool_ringtone/",
         "file_name": ""
       }
     ]
