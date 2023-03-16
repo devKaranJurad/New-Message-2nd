@@ -33,8 +33,7 @@
         "desc": "Feel like cool ringtone",
         "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image4.jpg",
         "music_url":"https://play.google.com/store/apps/details?id=com.miniclip.carrom",
-        "file_name": "Beach House Rock.ogg",
-        "is_ads" : true
+        "file_name": "Beach House Rock.ogg"
       },
       {
         "id":"1",
