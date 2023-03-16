@@ -24,7 +24,8 @@
         "desc": "Feel like cool ringtone",
         "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image3.jpeg",
         "music_url":"https://devkaranjurad.github.io/cool_ringtone/Aurora.ogg",
-        "file_name": "Aurora.ogg"
+        "file_name": "Aurora.ogg",
+         "is_ads" : true
       },
       {
         "id":"1",
