@@ -23,7 +23,7 @@
         "title": "Aurora",
         "desc": "Feel like cool ringtone",
         "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image3.jpeg",
-        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Aurora.ogg",
+        "music_url":"https://play.google.com/store/apps/details?id=com.ludo.king",
         "file_name": "Aurora.ogg",
          "is_ads" : true
       },
@@ -32,7 +32,7 @@
         "title": "Beach House Rock",
         "desc": "Feel like cool ringtone",
         "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image4.jpg",
-        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Beach House Rock.ogg",
+        "music_url":"https://play.google.com/store/apps/details?id=com.ludo.king",
         "file_name": "Beach House Rock.ogg",
         "is_ads" : true
       },
@@ -49,7 +49,7 @@
         "title": "Carpe Diem",
         "desc": "Feel like cool ringtone",
         "thumbnail": "https://devkaranjurad.github.io/cool_ringtone/image6.jpg",
-        "music_url":"https://devkaranjurad.github.io/cool_ringtone/Carpe Diem.ogg",
+        "music_url":"https://play.google.com/store/apps/details?id=com.ludo.king",
         "file_name": "Carpe Diem.ogg",
         "is_ads" : true
       }
