@@ -339,7 +339,8 @@
         "desc": "Feel like shivaji maharaj ringtone",
         "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji4.jpeg",
         "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/he_hindu_dipti_sam.mp3",
-        "file_name": "he_hindu_dipti_sam.mp3"
+        "file_name": "he_hindu_dipti_sam.mp3",
+        "is_ads":true
       },
       {
         "id": "1",
@@ -363,7 +364,8 @@
         "desc": "Feel like shivaji maharaj ringtone",
         "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/sivaji3.png",
         "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/maharaj_ki_jay_ho.mp3",
-        "file_name": "maharaj_ki_jay_ho.mp3"
+        "file_name": "maharaj_ki_jay_ho.mp3",
+        "is_ads":true
       },
       {
         "id": "1",
@@ -403,7 +405,8 @@
         "desc": "Feel like shivaji maharaj ringtone",
         "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/shivaji (79).jpeg",
         "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/Swarg Ha Nava.mp3",
-        "file_name": "Swarg Ha Nava.mp3"
+        "file_name": "Swarg Ha Nava.mp3",
+        "is_ads":true
       },
       {
         "id": "1",
@@ -451,7 +454,8 @@
         "desc": "Feel like shivaji maharaj ringtone",
         "thumbnail": "https://devkaranjurad.github.io/shivaji_ringtone/shivaji (85).jpeg",
         "music_url": "https://devkaranjurad.github.io/shivaji_ringtone/Tuzya Vina Javed Ali Song.mp3",
-        "file_name": "Tuzya Vina Javed Ali Song.mp3"
+        "file_name": "Tuzya Vina Javed Ali Song.mp3",
+        "is_ads":true
       },
       {
         "id": "1",
