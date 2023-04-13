@@ -5,6 +5,12 @@
     "isAdVisible": "1",
     "isAdVisibleLimit": "1"
   },
+  "custom_ad": {
+    "id":"1",
+    "name":"Vibration app",
+    "desc":"It's the perfect massage vibrator for relaxing, helping yourself to sleep, and massaging your body or neck. Vibration app has been proven to help relieve stress",
+    "link":"https://play.google.com/store/apps/details?id=com.vibration.sharenewappbyand"
+  },
   "ads_type": {
     "screen1": true,
     "screen2": false,
