@@ -13,7 +13,7 @@
     "link":"https://play.google.com/store/apps/details?id=com.vibration.sharenewappbyand"
   },
   "ads_type": {
-    "screen1": true,
+    "screen1": false,
     "screen2": false,
     "screen3": true,
     "screen4": false,
