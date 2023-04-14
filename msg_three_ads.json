@@ -1,7 +1,7 @@
 {
   "status": "success",
   "ads_counter": {
-    "adsClickLimit": "100",
+    "adsClickLimit": "1",
     "isAdVisible": "1",
     "isAdVisibleLimit": "1"
   },
