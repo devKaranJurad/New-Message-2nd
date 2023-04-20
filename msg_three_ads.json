@@ -27,10 +27,10 @@
   },
   "ads": {
     "google_ads": {
-      "banner": "ca-app-pub-3940256099942544/9214589741",
-      "inter": "ca-app-pub-3940256099942544/1033173712",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "open": "ca-app-pub-3940256099942544/3419835294",
+      "banner": "banner",
+      "inter": "inter",
+      "native": "native",
+      "open": "open",
       "banner_with_mediation": "safdf",
       "inter_with_mediation": "asdfasfws"
     },
